@@ -1,0 +1,47 @@
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+android:paddingBottom="@dimen/activity_horizontal_margin"
+    android:paddingLeft="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_vertical_margin"
+    android:paddingTop="@dimen/activity_horizontal_margin"
+    tools:context=".MainActivity" >
+
+     <TextView
+         android:id="@+id/helpText"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_weight="0.32"
+         android:text="@string/invalues_string_sayhello" />
+
+     
+
+    <EditText
+         android:id="@+id/derText"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_weight="1"
+         android:hint="@string/invalues_string_sayText" >
+
+         <requestFocus />
+     </EditText>
+
+     <Button
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:onClick="openURL"
+         android:text="@string/invalues_string_button" />
+
+   <Button
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:onClick="complain"
+         android:text="@string/invalues_string_complain"
+       />
+     
+     
+    </LinearLayout>
+
+

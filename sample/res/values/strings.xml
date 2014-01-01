@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sample</string>
+    <string name="action_settings">Settings</string>
+    <string name = "invalues_string_sayText">put value here</string>
+    <string name="invalues_string_button">clickme</string>
+    <string name="invalues_string_sayhello">hello</string>
+    <string name="invalues_string_complain">bitch Button</string>
+</resources>
