@@ -7,4 +7,5 @@
     <string name="invalues_string_button">clickme</string>
     <string name="invalues_string_sayhello">hello</string>
     <string name="invalues_string_complain">bitch Button</string>
+    <string name="invalues_seekbar">this is for slider</string>
 </resources>
