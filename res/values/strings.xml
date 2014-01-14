@@ -3,9 +3,15 @@
 
     <string name="app_name">sample</string>
     <string name="action_settings">Settings</string>
-    <string name = "invalues_string_sayText">put value here</string>
+    <string name="invalues_string_sayText">put value here</string>
     <string name="invalues_string_button">clickme</string>
     <string name="invalues_string_sayhello">hello</string>
     <string name="invalues_string_complain">bitch Button</string>
     <string name="invalues_seekbar">this is for slider</string>
+    <string name="title_activity_list">ListActivity</string>
+
+    <string name="liact">List Activity</string>
+    <string name="libtn">Add</string>
+    <string name="open_list">Open List</string>
+
 </resources>

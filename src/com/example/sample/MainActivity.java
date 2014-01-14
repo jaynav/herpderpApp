@@ -141,5 +141,9 @@ public class MainActivity extends Activity {
     		   });
        		helper.startAnimation(animate);
     }
-    
+    public void openList(View der)
+    	{
+    		Intent startI = new Intent(this,MyListActivity.class);
+    		startActivity(startI);
+    	}
 }
