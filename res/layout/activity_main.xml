@@ -56,5 +56,11 @@
         android:onClick="openList"
         android:text="@string/open_list"
         />
+    <Button 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="openPref"
+        android:text="@string/open_pref"
+        />
 
 </LinearLayout>

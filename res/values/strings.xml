@@ -13,5 +13,16 @@
     <string name="liact">List Activity</string>
     <string name="libtn">Add</string>
     <string name="open_list">Open List</string>
-
+     <string name="pref_title">Open List</string>
+      <string name="pref_sum">Open List</string>
+      <string name="open_pref">open pref</string>
+      <string name="title_pref">open der pref</string>
+      <!-- needed for preferences list
+       -->
+      <string-array name="titles1">
+          <item>tile der</item>
+      </string-array>
+      <string-array name="values1">
+          <item> value der</item>
+      </string-array>
 </resources>

@@ -146,4 +146,9 @@ public class MainActivity extends Activity {
     		Intent startI = new Intent(this,MyListActivity.class);
     		startActivity(startI);
     	}
+    public void openPref(View der)
+    	{
+    		Intent startI = new Intent(this, MyPreActivity.class);
+    		startActivity(startI);
+    	}
 }
